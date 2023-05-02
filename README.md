@@ -1,0 +1,2 @@
+# clean_survey_data
+This snippet demonstrates the transformation of disorganized survey data with categorical variables into a structured data table using the Pandas library, making it suitable for data analysis.
